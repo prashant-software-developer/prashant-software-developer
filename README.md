@@ -19,7 +19,7 @@ I design, build, and ship **SaaS**, **AI**, and **automation** products — end-
 
 I take products from **idea → design → code → deploy**. No handoffs. No gaps.
 
-**3+ years** of experience. **22+ projects** shipped. **11+ clients** across **the US, Europe, Hong Kong, and India**. Currently designing **conversational AI** at **[Ringover](https://www.ringover.com/)**.
+**3+ years** of experience. **22+ projects** shipped. **11+ clients** across **the US, Europe, Hong Kong, and India**.
 
 I also deliver **AI training data** — prompt engineering, annotation, **RLHF**, red-teaming, and benchmark design — for AI labs and enterprises.
 
