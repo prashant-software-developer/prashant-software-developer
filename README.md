@@ -7,7 +7,7 @@
 I design, build, and ship **SaaS**, **AI**, and **automation** products — end-to-end.
 
 [![Portfolio](https://img.shields.io/badge/prashantworks.com-1D9784?style=for-the-badge)](https://prashantworks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/product-designer-freelancer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-product-engineer/)
 [![Twitter](https://img.shields.io/badge/@prashantworkss-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prashantworkss)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantkumarsingh.work@gmail.com)
 
