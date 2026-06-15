@@ -41,16 +41,6 @@ I also deliver **AI training data** — prompt engineering, annotation, **RLHF**
 
 ---
 
-### Work
-
-**[Ringover](https://www.ringover.com/)** — Product Designer *(Remote, Oct 2024 – Present)*
-> Designing **Empower** (Conversational AI), **AIRO Coach**, **Pitch Room**, **Simless**, and the **Mobile App**. Built AI-powered call studios, coaching frameworks, and role-based dashboards across **Web, iOS, and Android**.
-
-**[Wispel](https://www.wispel.app/)** — Product Designer & Developer *(Remote, Paris, Jun 2023 – Sep 2024)*
-> Owned full product — **React** frontend with **Vonage SDK**, **Node.js + AWS** backend, **Freshsales** and **GoHighLevel** integrations. Designed all marketing and product UI.
-
----
-
 ### Projects
 
 **[Picstone](https://picstone-generative-ai.vercel.app/)** — AI story generator. **107K+ views**. **11K+ users**. **Gen-AI Hackathon Top 5**.
