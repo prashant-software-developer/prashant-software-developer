@@ -4,7 +4,7 @@
 
 **Product Designer · Software Developer · AI Builder**
 
-I design, build, and ship **SaaS**, **AI**, and **automation** products — end-to-end.
+I design, build, and ship **SaaS**, **AI**, and **automation** products - end-to-end.
 
 [![Portfolio](https://img.shields.io/badge/prashantworks.com-1D9784?style=for-the-badge)](https://prashantworks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-product-engineer/)
@@ -21,23 +21,23 @@ I take products from **idea → design → code → deploy**. No handoffs. No ga
 
 **3+ years** of experience. **22+ projects** shipped. **11+ clients** across **the US, Europe, Hong Kong, and India**.
 
-I also deliver **AI training data** — prompt engineering, annotation, **RLHF**, red-teaming, and benchmark design — for AI labs and enterprises.
+I also deliver **AI training data** - prompt engineering, annotation, **RLHF**, red-teaming, and benchmark design - for AI labs and enterprises.
 
 ---
 
 ### Tech
 
-**Design** — Figma, Design Systems, Prototyping, UX Research
+**Design** - Figma, Design Systems, Prototyping, UX Research
 
-**Frontend** — React, Next.js, Redux, React Native
+**Frontend** - React, Next.js, Redux, React Native
 
-**Backend** — Node.js, Python, Go, .NET, FastAPI, Flask
+**Backend** - Node.js, Python, Go, .NET, FastAPI, Flask
 
-**AI** — LLM Integration, Prompt Engineering, RLHF, Voice AI
+**AI** - LLM Integration, Prompt Engineering, RLHF, Voice AI
 
-**Cloud** — AWS, Docker, Kubernetes, CI/CD
+**Cloud** - AWS, Docker, Kubernetes, CI/CD
 
-**Data** — PostgreSQL, MongoDB, Redis, MySQL
+**Data** - PostgreSQL, MongoDB, Redis, MySQL
 
 ---
 
@@ -49,7 +49,7 @@ I also deliver **AI training data** — prompt engineering, annotation, **RLHF**
 
 **[LinkSaver](https://www.linksaver.in/)** - Resource manager built with **React + Go**. Nested folders, drag-drop, treemap viz, Chrome extension.
 
-**[CineAI](#)** — AI-powered film curator. Daily recommendations tailored to your taste and mood.
+**[CineAI](#)** - AI-powered film curator. Daily recommendations tailored to your taste and mood.
 
 **[Cognize](http://cognize.live/)** - Lightweight lead board with activity tracking and auto summaries.
 
