@@ -43,15 +43,15 @@ I also deliver **AI training data** — prompt engineering, annotation, **RLHF**
 
 ### Projects
 
-**[Picstone](https://picstone-generative-ai.vercel.app/)** — AI story generator. **107K+ views**. **11K+ users**. **Gen-AI Hackathon Top 5**.
+**[Picstone](https://picstone-generative-ai.vercel.app/)** - AI story generator. **107K+ views**. **11K+ users**. **Gen-AI Hackathon Top 5**.
 
-**[QriosX](https://www.qriosx.com/)** — AI coaching platform with journaling, reflections, and grit-based challenges.
+**[QriosX](https://www.qriosx.com/)** - AI coaching platform with journaling, reflections, and grit-based challenges.
 
-**[LinkSaver](https://www.linksaver.in/)** — Resource manager built with **React + Go**. Nested folders, drag-drop, treemap viz, Chrome extension.
+**[LinkSaver](https://www.linksaver.in/)** - Resource manager built with **React + Go**. Nested folders, drag-drop, treemap viz, Chrome extension.
 
 **[CineAI](#)** — AI-powered film curator. Daily recommendations tailored to your taste and mood.
 
-**[Cognize](http://cognize.live/)** — Lightweight lead board with activity tracking and auto summaries.
+**[Cognize](http://cognize.live/)** - Lightweight lead board with activity tracking and auto summaries.
 
 ---
 
